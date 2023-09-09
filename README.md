@@ -7,7 +7,6 @@
      - > npm start
  ## Demo
  
- ![](./demo.gif)
  
  ## Author 
-  [Nikhil Sahu](http://nikhilsahu.me/)
+  [Windragon](http://github.windragon.io/)
